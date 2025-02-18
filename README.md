@@ -1,4 +1,3 @@
-# Image-Based-Data-Hiding-Using-LSB-Steganography
 # Image-Based Data Hiding Using LSB Steganography
 
 ## Overview
